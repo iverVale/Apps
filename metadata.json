@@ -1,0 +1,6 @@
+{
+  "name": "Avaliação de Jogos",
+  "description": "Um aplicativo incrível para gerenciar resenhas de jogos, dar notas e criar sua lista de desejos gamer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
